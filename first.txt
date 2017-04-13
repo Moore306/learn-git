@@ -38,4 +38,8 @@ now i write it for learning branch #####################
 this time i edit the first.txt in branch  dv   dev          
 
 
-iiiii<<<<<<<<<<<<<<<<<<edit in the master<
+
+
+
+then i edit this branch for solving the problem --t (i find that there was a confalict and fix it then  h
+
